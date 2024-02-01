@@ -1,6 +1,6 @@
 # Contributing-to-Nixpkgs-in-the-BioNix-Project
 As one of the first acts of active contribution in the BioNix project, you will be tasked with wrapping and testing the following bioinformatics software into the [Nixpkgs repository](https://github.com/NixOS/nixpkgs), click on their links below to be taken to their project pages for more information:
-* [TRF](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki/6.-TandemRepeatsFinder-(TRF))
+* [TRF](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki/4.3.-TandemRepeatsFinder-(TRF))
 * [RepeatMasker](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki/4.2-RepeatMasker)
 * [Kraken2](https://github.com/WEHI-ResearchComputing/BioNix-GettingStarted/wiki/4.1-Kraken2)
 
