@@ -7,4 +7,4 @@ As one of the first acts of active contribution in the BioNix project, you will 
 These are listed in order of estimated difficulty and so your team should begin with TRF if not feeling too confident. Approaching Kraken2 will require additional initiative, as currently there are no tests provided to check that workflows ensure data reproducibility. 
 <br />
 To figure out how to make a contribution, follow the following steps in the [nixpkgs contribution guide](https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md)
-Make sure to refer to or document your own solutions and problems in the the FAQ contribution errors if stuck.
+
